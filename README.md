@@ -1,6 +1,6 @@
 # React TodoList 
 
-this is a very simple todo list application written using React.js
+this is a simple todo list application written using React.js
 
 the `node_modules` have not been uploaded.
 
@@ -16,6 +16,3 @@ replace the public and src folders with those in this repo.
 ```
   npm start
 ```
-
-<h3>Results</h3>
-<img src="./result.png">
